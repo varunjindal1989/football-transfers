@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_677299_footbal_1.admin" name="x_677299_footbal_1.admin">1452fa1897211110b2b57cb0f053afa9</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-22 13:05:58</sys_created_on>
+        <sys_id>9052fa1897211110b2b57cb0f053afab</sys_id>
+        <sys_name>1452fa1897211110b2b57cb0f053afa9</sys_name>
+        <sys_package display_value="Football Transfer" source="x_677299_footbal_1">8852fa1897211110b2b57cb0f053afa3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Football Transfer">8852fa1897211110b2b57cb0f053afa3</sys_scope>
+        <sys_update_name>sys_embedded_help_role_9052fa1897211110b2b57cb0f053afab</sys_update_name>
+    </sys_embedded_help_role>
+</record_update>
